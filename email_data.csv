@@ -1,0 +1,9 @@
+email_text,label
+ ,spam
+"Meeting scheduled at 10am",ham
+"Congratulations you won a prize",spam
+"Project deadline is tomorrow",ham
+"Claim your free reward today",spam
+"Please review the attached document",ham
+"Limited offer click now",spam
+"Let's have lunch tomorrow",ham
